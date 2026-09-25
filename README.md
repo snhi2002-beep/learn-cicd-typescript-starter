@@ -1,3 +1,5 @@
+[![ci](https://github.com/snhi2002-beep/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?branch=addtests)](https://github.com/snhi2002-beep/learn-cicd-typescript-starter/actions/workflows/ci.yml)
+
 Test files added @@@@@
 
 # learn-cicd-typescript-
